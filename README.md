@@ -9,7 +9,7 @@
 <p>- 🛠️ Skilled in responsive UI design and performance optimization</p>
 <p>- 📊 Strong problem-solving and debugging skills</p>
 <p>- 🌱 Eager to learn and grow in a collaborative environment</p>
-<p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://github.com/ShanyMargalit/My_CV/blob/main/%D7%A9%D7%A0%D7%99%20%D7%9E%D7%A8%D7%92%D7%9C%D7%99%D7%AA%20%D7%94%D7%A0%D7%93%D7%A1%D7%90%D7%99%D7%AA%20%D7%AA%D7%95%D7%9B%D7%A0%D7%94.pdf">here</a>.</p>
+<p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://github.com/ShanyMargalit/My_CV/blob/main/%D7%A9%D7%A0%D7%99%20%D7%9E%D7%A8%D7%92%D7%9C%D7%99%D7%AA-%D7%94%D7%A0%D7%93%D7%A1%D7%90%D7%99%D7%AA%20%D7%AA%D7%95%D7%9B%D7%A0%D7%94.pdf">here</a>.</p>
 
 ## 🚀My Mission
 As a full-stack web developer, I infuse each project with a high level of enthusiasm, unwavering dedication, and a relentless drive for continuous learning. I am deeply committed to delivering top-quality results and consistently enhancing my skills to stay ahead in the ever-evolving tech landscape.
