@@ -9,7 +9,7 @@
 <p>- 🛠️ Skilled in responsive UI/UX design and performance optimization</p>
 <p>- 📊 Strong problem-solving and debugging skills</p>
 <p>- 🌱 Eager to learn and grow in a collaborative environment</p>
-<p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/1YflXMbcwjJ5aMRBITbIHWAitntvfOpY8/view?usp=sharing">here</a>.</p>
+<p>- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/1aEM78K0LJ61YWq3Vl60I0km5I3OWlhDO/view?usp=sharing">here</a>.</p>
 
 ## 🚀My Mission
 As a full-stack web developer, I infuse each project with a high level of enthusiasm, unwavering dedication, and a relentless drive for continuous learning. I am deeply committed to delivering top-quality results and consistently enhancing my skills to stay ahead in the ever-evolving tech landscape.
